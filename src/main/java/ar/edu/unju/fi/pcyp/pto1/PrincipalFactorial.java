@@ -34,8 +34,10 @@ public class PrincipalFactorial {
 	        System.out.println("Resultado Hilo 1 -> Factorial de " + hilo1.getNumero() + " es: " + hilo1.getResultado());
 	        System.out.println("Resultado Hilo 2 -> Factorial de " + hilo2.getNumero() + " es: " + hilo2.getResultado());
 	    
+	        System.out.println("hola estoy subiendo cambios");
+	        
 		}
 		
-
+		
 
 }
